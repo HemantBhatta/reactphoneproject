@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactphoneproject/static/css/main.777247ae.chunk.css",
+    "main.js": "/reactphoneproject/static/js/main.286a9eff.chunk.js",
+    "main.js.map": "/reactphoneproject/static/js/main.286a9eff.chunk.js.map",
+    "runtime-main.js": "/reactphoneproject/static/js/runtime-main.22cf237a.js",
+    "runtime-main.js.map": "/reactphoneproject/static/js/runtime-main.22cf237a.js.map",
+    "static/js/2.cc06ce76.chunk.js": "/reactphoneproject/static/js/2.cc06ce76.chunk.js",
+    "static/js/2.cc06ce76.chunk.js.map": "/reactphoneproject/static/js/2.cc06ce76.chunk.js.map",
+    "index.html": "/reactphoneproject/index.html",
+    "precache-manifest.ca5a9256c60324c08660bba89a5d1970.js": "/reactphoneproject/precache-manifest.ca5a9256c60324c08660bba89a5d1970.js",
+    "service-worker.js": "/reactphoneproject/service-worker.js",
+    "static/css/main.777247ae.chunk.css.map": "/reactphoneproject/static/css/main.777247ae.chunk.css.map",
+    "static/js/2.cc06ce76.chunk.js.LICENSE.txt": "/reactphoneproject/static/js/2.cc06ce76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cf237a.js",
+    "static/js/2.cc06ce76.chunk.js",
+    "static/css/main.777247ae.chunk.css",
+    "static/js/main.286a9eff.chunk.js"
+  ]
+}
