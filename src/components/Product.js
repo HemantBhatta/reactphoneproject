@@ -14,6 +14,8 @@ export default class Product extends Component {
         const {product} = this.props
         const {id,img,title,price,count,inCart} = product
 
+        console.log(img);
+
        
         
         
@@ -34,6 +36,7 @@ export default class Product extends Component {
                </div>
 
                <div className="titlePrice">
+               
                 <h2>{title}</h2>
                 <h3>Price: ${price}</h3>
                </div>
